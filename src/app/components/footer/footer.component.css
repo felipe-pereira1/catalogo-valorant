@@ -1,0 +1,26 @@
+* {
+    color: white;
+}
+
+section {
+    background-color: #111111;
+    display: block;
+}
+
+
+.container1 {
+    display: flex;
+    align-items:center;
+    padding: 10px 0px 0px 700px;
+}
+
+.container {
+        display: flex;
+        align-items:center;
+        padding: 10px 0px 0px 700px;
+}
+
+
+img {
+    width: 70px;
+}
